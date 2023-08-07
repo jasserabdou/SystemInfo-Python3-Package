@@ -13,7 +13,7 @@ pip install psutil py-cpuinfo gputil
 Next, you can install the package itself:
 
 ```bash
-pip install systeminfo
+pip install systeminfo-python3
 ```
 
 ## Usage
