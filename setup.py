@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='systeminfo',
+    name='systeminfo-python3',
     version='0.1',
     author='Jasser Abdelfattah',
     author_email='jasserabdelfattah12@gmail.com',
