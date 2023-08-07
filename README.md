@@ -3,15 +3,6 @@
 This Python package provides a simple and easy-to-use way to gather system information, including details about the operating system, CPU, GPU (if available), and disk usage. The package uses popular Python libraries such as `platform`, `psutil`, `socket`, `cpuinfo`, and `GPUtil` to retrieve and present the system data.
 
 ## Installation
-
-To use the package, you need to install the required dependencies first. You can do this using `pip` with the following command:
-
-```bash
-pip install psutil py-cpuinfo gputil
-```
-
-Next, you can install the package itself:
-
 ```bash
 pip install systeminfo-python3
 ```
